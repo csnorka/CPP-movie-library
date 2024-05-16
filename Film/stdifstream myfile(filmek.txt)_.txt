@@ -1,0 +1,53 @@
+    std::ifstream myfile("filmek.txt");
+    if (!myfile) {
+        std::cerr << "Error opening input file." << std::endl;
+        return;
+    }
+
+    try {
+        std::string line, cim, leiras;
+        int type, lejatsz, kiadev, korhatar;
+
+        while (std::getline(myfile, line)) {
+            std::istringstream iss(line);
+            if (!(iss >> type)) {
+                std::cerr << "Invalid input format." << std::endl;
+                continue;
+            }
+
+            std::string comma_string;
+            std::getline(iss, cim, '-');
+            if (!(iss >> cim)) {
+                std::cerr << "Invalid input format." << std::endl;
+                continue;
+            }
+
+            std::getline(iss, comma_string, '-');
+            if (!(iss >> kiadev)) {
+                std::cerr << "Invalid input format." << std::endl;
+                continue;
+            }
+
+            if (type == 0) {
+                std::getline(iss, cim, '\n');
+                filmek[fdb++] = new Film(cim, lejatsz, kiadev);
+            } else if (type == 1) {
+                std::getline(iss, comma_string, '-');
+                if (!(iss >> korhatar)) {
+                    std::cerr << "Invalid input format." << std::endl;
+                    continue;
+                }
+                std::getline(iss, cim, '\n');
+                filmek[fdb++] = new CsaladiFilm(cim, lejatsz, kiadev, korhatar);
+            } else if (type == 2) {
+                std::getline(iss, leiras, '-');
+                std::getline(iss, cim, '\n');
+                filmek[fdb++] = new DokumentumFilm(cim, lejatsz, kiadev, leiras);
+            } else {
+                std::cerr << "Invalid film type." << std::endl;
+                continue;
+            }
+        }
+    } catch (const std::exception& e) {
+        std::cerr << "Error: " << e.what() << std::endl;
+    }

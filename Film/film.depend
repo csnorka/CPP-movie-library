@@ -1,0 +1,782 @@
+# depslib dependency file v1.0
+1685137426 source:c:\users\csabuda.nori\onedrive - budapesti mûszaki és gazdaságtudományi egyetem\asztal\prog\nhf\csaladifilm.cpp
+	<iostream>
+	<string>
+	<algorithm>
+	"csaladifilm.h"
+
+1685127523 c:\users\csabuda.nori\onedrive - budapesti mûszaki és gazdaságtudományi egyetem\asztal\prog\nhf\csaladifilm.h
+	<iostream>
+	<string>
+	"film.h"
+
+1685126156 c:\users\csabuda.nori\onedrive - budapesti mûszaki és gazdaságtudományi egyetem\asztal\prog\nhf\film.h
+	<iostream>
+	<string>
+
+1685137426 source:c:\users\csabuda.nori\onedrive - budapesti mûszaki és gazdaságtudományi egyetem\asztal\prog\nhf\dokumentumfilm.cpp
+	<iostream>
+	<algorithm>
+	"dokumentumfilm.h"
+
+1685127523 c:\users\csabuda.nori\onedrive - budapesti mûszaki és gazdaságtudományi egyetem\asztal\prog\nhf\dokumentumfilm.h
+	<iostream>
+	<string>
+	"film.h"
+
+1685137315 source:c:\users\csabuda.nori\onedrive - budapesti mûszaki és gazdaságtudományi egyetem\asztal\prog\nhf\film.cpp
+	<iostream>
+	<algorithm>
+	"film.h"
+
+1684676150 source:c:\users\csabuda.nori\onedrive - budapesti mûszaki és gazdaságtudományi egyetem\asztal\prog\nhf\filmtar_teszt.cpp
+	<iostream>
+	<csignal>
+	<string>
+	"film.h"
+	"tarolo.h"
+	"csaladifilm.h"
+	"dokumentumfilm.h"
+
+1685132718 c:\users\csabuda.nori\onedrive - budapesti mûszaki és gazdaságtudományi egyetem\asztal\prog\nhf\tarolo.h
+	<string>
+	<iostream>
+	"film.h"
+	"csaladifilm.h"
+	"dokumentumfilm.h"
+
+1685177787 source:c:\users\csabuda.nori\onedrive - budapesti mûszaki és gazdaságtudományi egyetem\asztal\prog\nhf\main.cpp
+	<iostream>
+	<csignal>
+	<string>
+	"film.h"
+	"tarolo.h"
+	"csaladifilm.h"
+	"dokumentumfilm.h"
+	"menuFuggvenyek.cpp"
+
+1685137763 source:c:\users\csabuda.nori\onedrive - budapesti mûszaki és gazdaságtudományi egyetem\asztal\prog\nhf\tarolo.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<cstring>
+	<sstream>
+	<algorithm>
+	"tarolo.h"
+	"film.h"
+	"csaladifilm.h"
+	"dokumentumfilm.h"
+
+1685178012 c:\users\csabuda.nori\onedrive - budapesti mûszaki és gazdaságtudományi egyetem\asztal\prog\nhf\menufuggvenyek.cpp
+	<iostream>
+	<csignal>
+	<string>
+	"film.h"
+	"tarolo.h"
+	"csaladifilm.h"
+	"dokumentumfilm.h"
+
+1685293601 source:c:\users\csabuda.nori\onedrive - budapesti mûszaki és gazdaságtudományi egyetem\asztal\prog\nhf\film\csaladifilm.cpp
+	<iostream>
+	<string>
+	<algorithm>
+	"csaladifilm.h"
+
+1685293601 c:\users\csabuda.nori\onedrive - budapesti mûszaki és gazdaságtudományi egyetem\asztal\prog\nhf\film\csaladifilm.h
+	<iostream>
+	<string>
+	"film.h"
+
+1685293601 c:\users\csabuda.nori\onedrive - budapesti mûszaki és gazdaságtudományi egyetem\asztal\prog\nhf\film\film.h
+	<iostream>
+	<string>
+
+1685293601 source:c:\users\csabuda.nori\onedrive - budapesti mûszaki és gazdaságtudományi egyetem\asztal\prog\nhf\film\dokumentumfilm.cpp
+	<iostream>
+	<algorithm>
+	"dokumentumfilm.h"
+
+1685293601 c:\users\csabuda.nori\onedrive - budapesti mûszaki és gazdaságtudományi egyetem\asztal\prog\nhf\film\dokumentumfilm.h
+	<iostream>
+	<string>
+	"film.h"
+
+1685293601 source:c:\users\csabuda.nori\onedrive - budapesti mûszaki és gazdaságtudományi egyetem\asztal\prog\nhf\film\film.cpp
+	<iostream>
+	<algorithm>
+	"film.h"
+
+1685307059 source:c:\users\csabuda.nori\onedrive - budapesti mûszaki és gazdaságtudományi egyetem\asztal\prog\nhf\film\filmtar_teszt.cpp
+	<iostream>
+	<csignal>
+	<string>
+	"filmtar_teszt.h"
+	"gtest_lite.h"
+	"memtrace.h"
+
+1685293602 c:\users\csabuda.nori\onedrive - budapesti mûszaki és gazdaságtudományi egyetem\asztal\prog\nhf\film\tarolo.h
+	<string>
+	<iostream>
+	"film.h"
+	"csaladifilm.h"
+	"dokumentumfilm.h"
+
+1685302525 source:c:\users\csabuda.nori\onedrive - budapesti mûszaki és gazdaságtudományi egyetem\asztal\prog\nhf\film\main.cpp
+	<iostream>
+	<csignal>
+	<string>
+	"film.h"
+	"tarolo.h"
+	"csaladifilm.h"
+	"dokumentumfilm.h"
+	"menuFuggvenyek.h"
+	"filmtar_teszt.h"
+	"memtrace.h"
+
+1685178817 c:\users\csabuda.nori\onedrive - budapesti mûszaki és gazdaságtudományi egyetem\asztal\prog\nhf\film\menufuggvenyek.cpp
+	<iostream>
+	<csignal>
+	<string>
+	"film.h"
+	"tarolo.h"
+	"csaladifilm.h"
+	"dokumentumfilm.h"
+
+1685305657 source:c:\users\csabuda.nori\onedrive - budapesti mûszaki és gazdaságtudományi egyetem\asztal\prog\nhf\film\menufuggvenyek.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<cstring>
+	<sstream>
+	<algorithm>
+	"menuFuggvenyek.h"
+
+1685305657 source:c:\users\csabuda.nori\onedrive - budapesti mûszaki és gazdaságtudományi egyetem\asztal\prog\nhf\film\tarolo.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<cstring>
+	<sstream>
+	<algorithm>
+	"tarolo.h"
+	"film.h"
+	"csaladifilm.h"
+	"dokumentumfilm.h"
+
+1685299555 c:\users\csabuda.nori\onedrive - budapesti mûszaki és gazdaságtudományi egyetem\asztal\prog\nhf\film\menufuggvenyek.h
+	<iostream>
+	<csignal>
+	<string>
+	"film.h"
+	"tarolo.h"
+	"csaladifilm.h"
+	"dokumentumfilm.h"
+
+1685293601 c:\users\csabuda.nori\onedrive - budapesti mûszaki és gazdaságtudományi egyetem\asztal\prog\nhf\film\filmtar_teszt.h
+	<iostream>
+	<csignal>
+	<string>
+	"film.h"
+	"tarolo.h"
+	"csaladifilm.h"
+	"dokumentumfilm.h"
+
+1685293601 c:\users\csabuda.nori\onedrive - budapesti mûszaki és gazdaságtudományi egyetem\asztal\prog\nhf\film\gtest_lite.h
+	<iostream>
+	<cassert>
+	<cmath>
+	<cstring>
+	<limits>
+	<cstdlib>
+	<string>
+	<fstream>
+	<iterator>
+	<regex>
+	"memtrace.h"
+
+1685280443 source:c:\users\pumuk\onedrive\desktop\film\csaladifilm.cpp
+	<iostream>
+	<string>
+	<algorithm>
+	"csaladifilm.h"
+
+1685280443 c:\users\pumuk\onedrive\desktop\film\csaladifilm.h
+	<iostream>
+	<string>
+	"film.h"
+
+1685280443 c:\users\pumuk\onedrive\desktop\film\film.h
+	<iostream>
+	<string>
+
+1685280443 source:c:\users\pumuk\onedrive\desktop\film\dokumentumfilm.cpp
+	<iostream>
+	<algorithm>
+	"dokumentumfilm.h"
+
+1685280443 c:\users\pumuk\onedrive\desktop\film\dokumentumfilm.h
+	<iostream>
+	<string>
+	"film.h"
+
+1685280443 source:c:\users\pumuk\onedrive\desktop\film\film.cpp
+	<iostream>
+	<algorithm>
+	"film.h"
+
+1685281339 source:c:\users\pumuk\onedrive\desktop\film\filmtar_teszt.cpp
+	<iostream>
+	<csignal>
+	<string>
+	"filmtar_teszt.h"
+	"gtest_lite.h"
+	"memtrace.h"
+
+1685199392 c:\users\pumuk\onedrive\desktop\film\filmtar_teszt.h
+	<iostream>
+	<csignal>
+	<string>
+	"film.h"
+	"tarolo.h"
+	"csaladifilm.h"
+	"dokumentumfilm.h"
+
+1685275209 c:\users\pumuk\onedrive\desktop\film\tarolo.h
+	<string>
+	<iostream>
+	"film.h"
+	"csaladifilm.h"
+	"dokumentumfilm.h"
+
+1681345830 c:\users\pumuk\onedrive\desktop\film\gtest_lite.h
+	<iostream>
+	<cassert>
+	<cmath>
+	<cstring>
+	<limits>
+	<cstdlib>
+	<string>
+	<fstream>
+	<iterator>
+	<regex>
+	"memtrace.h"
+
+1685293352 source:c:\users\pumuk\onedrive\desktop\film\main.cpp
+	<iostream>
+	<csignal>
+	<string>
+	"film.h"
+	"tarolo.h"
+	"csaladifilm.h"
+	"dokumentumfilm.h"
+	"menuFuggvenyek.h"
+	"filmtar_teszt.h"
+	"memtrace.h"
+
+1685280782 c:\users\pumuk\onedrive\desktop\film\menufuggvenyek.h
+	<iostream>
+	<csignal>
+	<string>
+	"film.h"
+	"tarolo.h"
+	"csaladifilm.h"
+	"dokumentumfilm.h"
+
+1685280766 source:c:\users\pumuk\onedrive\desktop\film\menufuggvenyek.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<cstring>
+	<sstream>
+	<algorithm>
+	"menuFuggvenyek.h"
+
+1685282045 source:c:\users\pumuk\onedrive\desktop\film\tarolo.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<cstring>
+	<sstream>
+	<algorithm>
+	"tarolo.h"
+	"film.h"
+	"csaladifilm.h"
+	"dokumentumfilm.h"
+
+1683910725 c:\users\pumuk\onedrive\desktop\film\memtrace.h
+	<new>
+	<cstdio>
+	<stdlib.h>
+	<iostream>
+	<fstream>
+	<sstream>
+	<vector>
+	<list>
+	<map>
+	<algorithm>
+	<functional>
+	<memory>
+	<iomanip>
+	<locale>
+	<typeinfo>
+	<ostream>
+	<stdexcept>
+	<ctime>
+	<iterator>
+	<regex>
+
+1685272483 source:c:\users\pumuk\onedrive\desktop\film\memtrace.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<ctype.h>
+	"memtrace.h"
+
+1685293602 c:\users\csabuda.nori\onedrive - budapesti mûszaki és gazdaságtudományi egyetem\asztal\prog\nhf\film\memtrace.h
+	<new>
+	<cstdio>
+	<stdlib.h>
+	<iostream>
+	<fstream>
+	<sstream>
+	<vector>
+	<list>
+	<map>
+	<algorithm>
+	<functional>
+	<memory>
+	<iomanip>
+	<locale>
+	<typeinfo>
+	<ostream>
+	<stdexcept>
+	<ctime>
+	<iterator>
+	<regex>
+
+1685293602 source:c:\users\csabuda.nori\onedrive - budapesti mûszaki és gazdaságtudományi egyetem\asztal\prog\nhf\film\memtrace.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<ctype.h>
+	"memtrace.h"
+
+1685307613 source:c:\users\pumuk\downloads\film (6)\film\csaladifilm.cpp
+	<iostream>
+	<string>
+	<algorithm>
+	"csaladifilm.h"
+
+1685307613 c:\users\pumuk\downloads\film (6)\film\csaladifilm.h
+	<iostream>
+	<string>
+	"film.h"
+
+1685307613 c:\users\pumuk\downloads\film (6)\film\film.h
+	<iostream>
+	<string>
+
+1685307613 source:c:\users\pumuk\downloads\film (6)\film\dokumentumfilm.cpp
+	<iostream>
+	<algorithm>
+	"dokumentumfilm.h"
+
+1685307613 c:\users\pumuk\downloads\film (6)\film\dokumentumfilm.h
+	<iostream>
+	<string>
+	"film.h"
+
+1685307613 source:c:\users\pumuk\downloads\film (6)\film\film.cpp
+	<iostream>
+	<algorithm>
+	"film.h"
+
+1685307817 source:c:\users\pumuk\downloads\film (6)\film\filmtar_teszt.cpp
+	<iostream>
+	<csignal>
+	<string>
+	"filmtar_teszt.h"
+	"gtest_lite.h"
+	"memtrace.h"
+
+1685293602 c:\users\pumuk\downloads\film (6)\film\filmtar_teszt.h
+	<iostream>
+	<csignal>
+	<string>
+	"film.h"
+	"tarolo.h"
+	"csaladifilm.h"
+	"dokumentumfilm.h"
+
+1685307843 c:\users\pumuk\downloads\film (6)\film\tarolo.h
+	<string>
+	<iostream>
+	"film.h"
+	"csaladifilm.h"
+	"dokumentumfilm.h"
+
+1685293602 c:\users\pumuk\downloads\film (6)\film\gtest_lite.h
+	<iostream>
+	<cassert>
+	<cmath>
+	<cstring>
+	<limits>
+	<cstdlib>
+	<string>
+	<fstream>
+	<iterator>
+	<regex>
+	"memtrace.h"
+
+1685293604 c:\users\pumuk\downloads\film (6)\film\memtrace.h
+	<new>
+	<cstdio>
+	<stdlib.h>
+	<iostream>
+	<fstream>
+	<sstream>
+	<vector>
+	<list>
+	<map>
+	<algorithm>
+	<functional>
+	<memory>
+	<iomanip>
+	<locale>
+	<typeinfo>
+	<ostream>
+	<stdexcept>
+	<ctime>
+	<iterator>
+	<regex>
+
+1685307416 source:c:\users\pumuk\downloads\film (6)\film\main.cpp
+	<iostream>
+	<csignal>
+	<string>
+	"film.h"
+	"tarolo.h"
+	"csaladifilm.h"
+	"dokumentumfilm.h"
+	"menuFuggvenyek.h"
+	"filmtar_teszt.h"
+	"memtrace.h"
+
+1685299556 c:\users\pumuk\downloads\film (6)\film\menufuggvenyek.h
+	<iostream>
+	<csignal>
+	<string>
+	"film.h"
+	"tarolo.h"
+	"csaladifilm.h"
+	"dokumentumfilm.h"
+
+1685293604 source:c:\users\pumuk\downloads\film (6)\film\memtrace.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<ctype.h>
+	"memtrace.h"
+
+1685305658 source:c:\users\pumuk\downloads\film (6)\film\menufuggvenyek.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<cstring>
+	<sstream>
+	<algorithm>
+	"menuFuggvenyek.h"
+
+1685307858 source:c:\users\pumuk\downloads\film (6)\film\tarolo.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<cstring>
+	<sstream>
+	<algorithm>
+	"tarolo.h"
+	"film.h"
+	"csaladifilm.h"
+	"dokumentumfilm.h"
+
+1685307612 source:c:\users\csabuda.nori\onedrive - budapesti mûszaki és gazdaságtudományi egyetem\asztal\film\csaladifilm.cpp
+	<iostream>
+	<string>
+	<algorithm>
+	"csaladifilm.h"
+
+1685307612 c:\users\csabuda.nori\onedrive - budapesti mûszaki és gazdaságtudományi egyetem\asztal\film\csaladifilm.h
+	<iostream>
+	<string>
+	"film.h"
+
+1685307612 c:\users\csabuda.nori\onedrive - budapesti mûszaki és gazdaságtudományi egyetem\asztal\film\film.h
+	<iostream>
+	<string>
+
+1685307612 source:c:\users\csabuda.nori\onedrive - budapesti mûszaki és gazdaságtudományi egyetem\asztal\film\dokumentumfilm.cpp
+	<iostream>
+	<algorithm>
+	"dokumentumfilm.h"
+
+1685307612 c:\users\csabuda.nori\onedrive - budapesti mûszaki és gazdaságtudományi egyetem\asztal\film\dokumentumfilm.h
+	<iostream>
+	<string>
+	"film.h"
+
+1685307612 source:c:\users\csabuda.nori\onedrive - budapesti mûszaki és gazdaságtudományi egyetem\asztal\film\film.cpp
+	<iostream>
+	<algorithm>
+	"film.h"
+
+1685307816 source:c:\users\csabuda.nori\onedrive - budapesti mûszaki és gazdaságtudományi egyetem\asztal\film\filmtar_teszt.cpp
+	<iostream>
+	<csignal>
+	<string>
+	"filmtar_teszt.h"
+	"gtest_lite.h"
+	"memtrace.h"
+
+1685293602 c:\users\csabuda.nori\onedrive - budapesti mûszaki és gazdaságtudományi egyetem\asztal\film\filmtar_teszt.h
+	<iostream>
+	<csignal>
+	<string>
+	"film.h"
+	"tarolo.h"
+	"csaladifilm.h"
+	"dokumentumfilm.h"
+
+1685307842 c:\users\csabuda.nori\onedrive - budapesti mûszaki és gazdaságtudományi egyetem\asztal\film\tarolo.h
+	<string>
+	<iostream>
+	"film.h"
+	"csaladifilm.h"
+	"dokumentumfilm.h"
+
+1685293602 c:\users\csabuda.nori\onedrive - budapesti mûszaki és gazdaságtudományi egyetem\asztal\film\gtest_lite.h
+	<iostream>
+	<cassert>
+	<cmath>
+	<cstring>
+	<limits>
+	<cstdlib>
+	<string>
+	<fstream>
+	<iterator>
+	<regex>
+	"memtrace.h"
+
+1685293604 c:\users\csabuda.nori\onedrive - budapesti mûszaki és gazdaságtudományi egyetem\asztal\film\memtrace.h
+	<new>
+	<cstdio>
+	<stdlib.h>
+	<iostream>
+	<fstream>
+	<sstream>
+	<vector>
+	<list>
+	<map>
+	<algorithm>
+	<functional>
+	<memory>
+	<iomanip>
+	<locale>
+	<typeinfo>
+	<ostream>
+	<stdexcept>
+	<ctime>
+	<iterator>
+	<regex>
+
+1685307416 source:c:\users\csabuda.nori\onedrive - budapesti mûszaki és gazdaságtudományi egyetem\asztal\film\main.cpp
+	<iostream>
+	<csignal>
+	<string>
+	"film.h"
+	"tarolo.h"
+	"csaladifilm.h"
+	"dokumentumfilm.h"
+	"menuFuggvenyek.h"
+	"filmtar_teszt.h"
+	"memtrace.h"
+
+1685299556 c:\users\csabuda.nori\onedrive - budapesti mûszaki és gazdaságtudományi egyetem\asztal\film\menufuggvenyek.h
+	<iostream>
+	<csignal>
+	<string>
+	"film.h"
+	"tarolo.h"
+	"csaladifilm.h"
+	"dokumentumfilm.h"
+
+1685293604 source:c:\users\csabuda.nori\onedrive - budapesti mûszaki és gazdaságtudományi egyetem\asztal\film\memtrace.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<ctype.h>
+	"memtrace.h"
+
+1685307858 source:c:\users\csabuda.nori\onedrive - budapesti mûszaki és gazdaságtudományi egyetem\asztal\film\tarolo.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<cstring>
+	<sstream>
+	<algorithm>
+	"tarolo.h"
+	"film.h"
+	"csaladifilm.h"
+	"dokumentumfilm.h"
+
+1685308570 source:c:\users\csabuda.nori\onedrive - budapesti mûszaki és gazdaságtudományi egyetem\asztal\film\menufuggvenyek.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<cstring>
+	<sstream>
+	<algorithm>
+	"menuFuggvenyek.h"
+
+1708732469 source:c:\users\csabudan\desktop\bme\2. félév\prog2_nhf_film\csaladifilm.cpp
+	<iostream>
+	<string>
+	<algorithm>
+	"csaladifilm.h"
+
+1708732469 c:\users\csabudan\desktop\bme\2. félév\prog2_nhf_film\csaladifilm.h
+	<iostream>
+	<string>
+	"film.h"
+
+1708732469 c:\users\csabudan\desktop\bme\2. félév\prog2_nhf_film\film.h
+	<iostream>
+	<string>
+
+1708732469 source:c:\users\csabudan\desktop\bme\2. félév\prog2_nhf_film\dokumentumfilm.cpp
+	<iostream>
+	<algorithm>
+	"dokumentumfilm.h"
+
+1708732469 c:\users\csabudan\desktop\bme\2. félév\prog2_nhf_film\dokumentumfilm.h
+	<iostream>
+	<string>
+	"film.h"
+
+1708732469 source:c:\users\csabudan\desktop\bme\2. félév\prog2_nhf_film\filmtar_teszt.cpp
+	<iostream>
+	<csignal>
+	<string>
+	"filmtar_teszt.h"
+	"gtest_lite.h"
+	"memtrace.h"
+
+1708732469 c:\users\csabudan\desktop\bme\2. félév\prog2_nhf_film\filmtar_teszt.h
+	<iostream>
+	<csignal>
+	<string>
+	"film.h"
+	"tarolo.h"
+	"csaladifilm.h"
+	"dokumentumfilm.h"
+
+1708732469 c:\users\csabudan\desktop\bme\2. félév\prog2_nhf_film\tarolo.h
+	<string>
+	<iostream>
+	"film.h"
+	"csaladifilm.h"
+	"dokumentumfilm.h"
+
+1708732469 c:\users\csabudan\desktop\bme\2. félév\prog2_nhf_film\gtest_lite.h
+	<iostream>
+	<cassert>
+	<cmath>
+	<cstring>
+	<limits>
+	<cstdlib>
+	<string>
+	<fstream>
+	<iterator>
+	<regex>
+	"memtrace.h"
+
+1708732469 c:\users\csabudan\desktop\bme\2. félév\prog2_nhf_film\memtrace.h
+	<new>
+	<cstdio>
+	<stdlib.h>
+	<iostream>
+	<fstream>
+	<sstream>
+	<vector>
+	<list>
+	<map>
+	<algorithm>
+	<functional>
+	<memory>
+	<iomanip>
+	<locale>
+	<typeinfo>
+	<ostream>
+	<stdexcept>
+	<ctime>
+	<iterator>
+	<regex>
+
+1708732469 source:c:\users\csabudan\desktop\bme\2. félév\prog2_nhf_film\main.cpp
+	<iostream>
+	<csignal>
+	<string>
+	"film.h"
+	"tarolo.h"
+	"csaladifilm.h"
+	"dokumentumfilm.h"
+	"menuFuggvenyek.h"
+	"filmtar_teszt.h"
+	"memtrace.h"
+
+1708732469 c:\users\csabudan\desktop\bme\2. félév\prog2_nhf_film\menufuggvenyek.h
+	<iostream>
+	<csignal>
+	<string>
+	"film.h"
+	"tarolo.h"
+	"csaladifilm.h"
+	"dokumentumfilm.h"
+
+1708732469 source:c:\users\csabudan\desktop\bme\2. félév\prog2_nhf_film\tarolo.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<cstring>
+	<sstream>
+	<algorithm>
+	"tarolo.h"
+	"film.h"
+	"csaladifilm.h"
+	"dokumentumfilm.h"
+
+1708732469 source:c:\users\csabudan\desktop\bme\2. félév\prog2_nhf_film\film.cpp
+	<iostream>
+	<algorithm>
+	"film.h"
+
+1708732469 source:c:\users\csabudan\desktop\bme\2. félév\prog2_nhf_film\memtrace.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<ctype.h>
+	"memtrace.h"
+
+1708732469 source:c:\users\csabudan\desktop\bme\2. félév\prog2_nhf_film\menufuggvenyek.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<cstring>
+	<sstream>
+	<algorithm>
+	"menuFuggvenyek.h"
+

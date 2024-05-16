@@ -1,0 +1,38 @@
+ /*while (std::getline(myfile, line)) {
+            std::istringstream iss(line);
+
+            std::getline(iss, cim, '-');
+            std::getline(iss, line, '-');
+            lejatsz = std::stoi(line);
+            std::getline(iss, line, '-');
+            kiadev = std::stoi(line);
+            std::getline(iss, line, '\n');
+            leiras = line;
+            vegjel = std::stoi(line);
+            //std::cout << vegjel << std::endl;
+            if (vegjel == 1) {
+                filmek[fdb++] = new Film(cim, lejatsz, kiadev);
+                std::cout << "most" << std::endl;
+            } else if (vegjel > 1 && vegjel<=99) {
+                filmek[fdb++] = new CsaladiFilm(cim, lejatsz, kiadev, vegjel);
+            } else {
+                //std::getline(iss, line);
+                filmek[fdb++] = new DokumentumFilm(cim, lejatsz, kiadev, leiras);
+            }
+        }*/
+        /*while(myfile >> type >> cim >> lejatsz >> kiadev >> leiras){
+            std::cout << "why" << std::endl;
+            if(type == 0){
+                //while(myfile  >> cim >> lejatsz >> kiadev)
+                filmek[fdb++] = new Film(cim, lejatsz, kiadev);
+            }
+            else if(type == 1){
+                //while(myfile  >> cim >> lejatsz >> kiadev >> korhatar)
+                korhatar= std::stoi(leiras);
+                filmek[fdb++] = new CsaladiFilm(cim, lejatsz, kiadev, korhatar);
+            }
+            else if(type == 2){
+                //while(myfile  >> cim >> lejatsz >> kiadev >> leiras)
+                filmek[fdb++] = new DokumentumFilm(cim, lejatsz, kiadev, leiras);
+            }
+        }*/
