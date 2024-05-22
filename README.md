@@ -1,2 +1,4 @@
 ## Movie Library
-The program was created for a subject.
+It's a simple console application for handling movies.
+### Purpose
+The program was created within the framework of a subject.
